@@ -19,7 +19,7 @@ This page is dedicated to the community resources that we use to collaborate and
 
 [GitHub](https://github.com) is where all the magic happens. This is our community GitHub server, where you can access all the resources needed for digital operations, from project repositories to documentation and templates.
 
-In fact, this very website is hosted on GitHub. You can find the source code for this website [here](). You can also help contribute to make it better! 
+In fact, this very website is hosted on GitHub. You can find the source code for this website [here](https://github.com/CacheValleyCommunities). You can also help contribute to make it better! 
 
 ---
 
