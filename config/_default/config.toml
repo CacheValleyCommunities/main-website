@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl = "https://demo.stack.jimmycai.com"
+baseurl = "https://www.cachevalley.co"
 languageCode = "en-us"
 title = "Cache Valley Communities"
 
