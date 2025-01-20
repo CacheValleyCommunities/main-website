@@ -9,6 +9,11 @@ links:
   - title: OSINT - Domain / IP Check
     description: This tool allows you to check the domain or ip address of a website. It provides information about the domain, such as the owner, location, and more.
     website: https:/security.cachevalley.co
+
+  - title: IT Tools
+    description: This is a collection of tools that are useful for IT professionals. It includes encoding, decoding, and hashing tools, as well as a variety of other useful utilities.
+    website: https://tools.cachevalley.co
+
 menu:
     main: 
         weight: 4
@@ -79,6 +84,16 @@ This tool is capable of providing the following information:
 ![OSINT - Domain / IP Check](1.png)
 ![OSINT - Domain / IP Check](2.png)
 ![OSINT - Domain / IP Check](3.png)
+
+## IT Tools
+
+[IT Tools](https://tools.cachevalley.co) is a collection of tools that are useful for IT professionals. It includes encoding, decoding, and hashing tools, as well as a variety of other useful utilities. This collection of tools is designed to help IT professionals and developers work more efficiently and effectively.
+
+This has been made available to the community to support small businesses, students, and hobbyists in their IT projects. The tools are free to use and open to the public. However, individual users are responsible for their own actions and should use these tools responsibly.
+
+The following tools are available in the collection:
+
+![IT Tools](4.png)
 
 ---
 
