@@ -21,15 +21,9 @@ tags:
 weight: 1
 ---
 
-# W.A.B. Warming Center: Providing Warmth and Safety for Our Community
-
-## Skip to content
-- [Warming Center](#)
-- [Announcements](#)
-- [Get Involved](#)
-- [About Us](#)
-- [Donate](#)
-- [Contact Us](#)
+> This was taken directly from the [WAB Warming Center](https://wabwarmingcenter.org) website. We are in no way affiliated with the WAB Warming Center. We are simply sharing their information to help spread the word about this awesome community resource.
+>
+> If you would like to learn more about the WAB Warming Center, please visit their [official website](https://wabwarmingcenter.org).
 
 ## Our Mission
 
@@ -43,18 +37,8 @@ The W.A.B. Warming Center serves **individuals and families** experiencing homel
 
 We believe in a community where **every person has inherent dignity and worth**. Our vision is that **no one will spend a single night unsheltered and alone** during the winter months in Cache Valley. We are committed to ensuring that every person in our community has access to the support and care they need to stay safe during the cold weather season.
 
-## Get Involved
+---
 
-### Services Offered
+Learn More About the W.A.B. Warming Center:
 
-- **Temporary Overnight Refuge**: Providing shelter from freezing temperatures on the coldest nights.
-- **Access to Resources**: Including water, snacks, warm weather clothing, and information about community programs and services.
-- **Friendly Supervision**: Volunteers and staff are available to ensure the safety of all guests during the center's operation.
-
-## FAQS
-
-### Operations & Logistics
-
-#### Location:
-- **East Entrance of St. John's Episcopal Church**  
-  85 E. 100
+- **[Official Website](https://wabwarmingcenter.org)**
