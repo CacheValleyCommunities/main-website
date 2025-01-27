@@ -20,7 +20,7 @@ The **Cache Tech Community** returns this January! We're excited to announce our
 
 **01/05/2025 - Edited to add time and location.**
 
-Join our [Discord community](https://www.cachevalley.co/why-you-should-join-our-official-discord-server-a-hub-for-updates-engagement-and-community-connection) to stay connected with fellow tech enthusiasts!
+Join our [Discord community](https://discord.com/invite/YNkqmVGZbSk) to stay connected with fellow tech enthusiasts!
 
 ### Event Details:
 - **Date**: Saturday, January 25, 2025
