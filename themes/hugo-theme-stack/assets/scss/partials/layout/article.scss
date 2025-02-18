@@ -259,7 +259,7 @@
         margin: 1.5em 0;
         border-inline-start: var(--blockquote-border-size) solid var(--card-separator-color);
         padding: 15px calc(var(--card-padding) - var(--blockquote-border-size));
-        background-color: var(--blockquote-background-color);
+        background-color: var(--blockquote-background-color)!important;
 
         .cite {
             display: block;
