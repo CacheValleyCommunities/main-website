@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Golang on Cache Valley Communities</title><link>https://www.cachevalley.co/tags/golang/</link><description>Recent content in Golang on Cache Valley Communities</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 18 Jan 2025 00:16:00 +0000</lastBuildDate><atom:link href="https://www.cachevalley.co/tags/golang/index.xml" rel="self" type="application/rss+xml"/><item><title>Cache Tech Community Meetup - February 2025</title><link>https://www.cachevalley.co/p/cache-tech-meetup-february-2025/</link><pubDate>Sat, 18 Jan 2025 00:16:00 +0000</pubDate><guid>https://www.cachevalley.co/p/cache-tech-meetup-february-2025/</guid><description>&lt;img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&amp;w=3272&amp;auto=format&amp;fit=crop&amp;ixlib=rb-4.0.3&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Featured image of post Cache Tech Community Meetup - February 2025" />&lt;p>We&amp;rsquo;re excited to announce our upcoming event on &lt;strong>Saturday, Feburuary 22, 2025&lt;/strong>, from &lt;strong>1:30 PM – 3:30 PM (MST)&lt;/strong> at &lt;strong>Bridgerland Technical College&lt;/strong>.&lt;/p>
+&lt;p>Join our &lt;a class="link" href="https://discord.com/invite/YNkqmVGZbSk" target="_blank" rel="noopener"
+>Discord community&lt;/a> to stay connected with fellow tech enthusiasts!&lt;/p>
+&lt;blockquote>
+&lt;p>This month our focus will be related to programming. There is the expectation that attendees have a basic understanding of programming concepts. If you&amp;rsquo;re a beginner, don&amp;rsquo;t worry! You can still learn a lot from this event and leave with your very own chat application!&lt;/p>&lt;/blockquote>
+&lt;h3 id="event-details">Event Details:
+&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>Date&lt;/strong>: Saturday, February 22, 2025&lt;/li>
+&lt;li>&lt;strong>Time&lt;/strong>: 1:30 PM – 3:30 PM (MST)&lt;/li>
+&lt;li>&lt;strong>Location&lt;/strong>: Bridgerland Technical College, West Building, Room 1860, 1410 N 1000 W, Logan, UT 84321&lt;/li>
+&lt;/ul>
+&lt;p>We&amp;rsquo;re continuing the format from last month! Here&amp;rsquo;s what you can expect:&lt;/p>
+&lt;h3 id="part-1-general-meetup-45-minutes">Part 1: General Meetup (45 minutes)
+&lt;/h3>&lt;p>We&amp;rsquo;ll kick things off with an open discussion on navigating the tech world. Whether you’re pursuing formal education, self-learning, or growing through community-driven opportunities, we’d love to hear your story! This is your chance to share experiences, exchange ideas, and explore potential mentorship opportunities.&lt;/p>
+&lt;p>&lt;strong>All skill levels and ages are welcome—there&amp;rsquo;s something for everyone!&lt;/strong>&lt;/p>
+&lt;h3 id="part-2-technical-deep-dive-45-minutes">Part 2: Technical Deep Dive (45 minutes)
+&lt;/h3>&lt;p>In the second half, we&amp;rsquo;ll teach you how to code a terminal-based chat application in Go! We&amp;rsquo;ll cover the basics of networking, building a simple chat server, and connecting clients to the server.&lt;/p>
+&lt;p>&lt;strong>Key highlights include:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Programming in GO-Lang&lt;/li>
+&lt;li>Building a simple chat server&lt;/li>
+&lt;li>Building a simple chat client&lt;/li>
+&lt;li>Connecting clients to the server&lt;/li>
+&lt;li>Sending and receiving messages&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Prerequisites:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Basic understanding of programming concepts (beginners with no experience are welcome!)&lt;/li>
+&lt;li>A laptop with Go installed (visit &lt;a class="link" href="https://golang.org" target="_blank" rel="noopener"
+>golang.org&lt;/a> to download Go)&lt;/li>
+&lt;li>A terminal emulator (e.g., Terminal on macOS, Command Prompt on Windows, or any terminal emulator on Linux)&lt;/li>
+&lt;li>A code editor (e.g., Visual Studio Code, Sublime Text, or any editor of your choice)&lt;/li>
+&lt;li>Curiosity and enthusiasm to learn!&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Additional Talking Points:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>How to secure your chat application&lt;/li>
+&lt;li>How to add authentication to your chat application&lt;/li>
+&lt;li>How to provide anonymity to your chat application&lt;/li>
+&lt;li>Discussion on cyber risks and security measures&lt;/li>
+&lt;/ul>
+&lt;h3 id="who-should-attend">Who Should Attend?
+&lt;/h3>&lt;p>This event is open to everyone—no exceptions! Whether you’re a beginner, self-taught, or an experienced tech professional, there’s something here for you.&lt;/p>
+&lt;p>Bring your curiosity, questions, and enthusiasm—let’s learn, connect, and grow together!&lt;/p>
+&lt;hr>
+&lt;p>We’re excited for the return of the Cache Tech Community, and we can&amp;rsquo;t wait to kick off the year with all of you!&lt;/p></description></item></channel></rss>
